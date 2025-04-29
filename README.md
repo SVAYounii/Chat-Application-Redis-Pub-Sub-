@@ -1,8 +1,3 @@
-Dank je voor je scherpe blik — je hebt gelijk: de `README.md` stopte onterecht na enkele onderdelen van de API-sectie, met name bij de codevoorbeelden van de requests/responses. Hieronder krijg je het **volledig en correct afgewerkte `README.md` script** als één doorlopende markdown-bestand.
-
----
-
-```md
 # Redis Chat Backend API
 
 Een schaalbare en real-time chat backend gebouwd met **ASP.NET Core Web API** en **Redis Streams + Pub/Sub**.  
