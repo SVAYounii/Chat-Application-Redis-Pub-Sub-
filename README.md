@@ -198,24 +198,3 @@ Wanneer je `XREAD` doet vanaf `"0-0"`, dan lees je:
 
 **Younes Aroiych**  
 Met passie voor schaalbare real-time systemen, software design en Redis-architecturen.
-
----
-
-## 📜 Licentie
-
-MIT License – vrij te gebruiken, kopiëren en aanpassen.
-
----
-
-## 📣 Contact / bijdragen
-
-Issues en pull requests zijn welkom!  
-Wil je bijdragen of samenwerken aan verdere features zoals gebruikersbeheer, rechten, of WebSocket-integratie? Open een issue of stuur een bericht.
-```
-
----
-
-Je kunt dit bestand nu direct kopiëren naar `README.md` in de root van je GitHub-project.  
-Alles zit erin: uitleg, technologie, API-documentatie, Redis structuur, voorbeelddata en projectstructuur. 🚀
-
-Laat maar weten als je ook een badge-rand of CI-instructies wil toevoegen!
